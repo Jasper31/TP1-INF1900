@@ -1,5 +1,5 @@
 /*
- * Nom: compteur 32 bits haha lol
+ * Nom: compteur 32 bits
  * Copyright (C) 2005 Matthew Khouzam
  * License http://www.gnu.org/copyleft/gpl.html GNU/GPL
  * Description: Ceci est un exemple simple de programme 
